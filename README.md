@@ -1,7 +1,10 @@
-An h1 header
+Angular Rails Starter Tutorial
 ============
 
-Paragraphs are separated by a blank line.
+I am just folowing the tutorial
+[AngularJS with Ruby on Rails](http://angular-rails.com/bootstrap.html#an-empty-rails-app)
+by David Bryant Copeland
+
 
 2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
 look like:
